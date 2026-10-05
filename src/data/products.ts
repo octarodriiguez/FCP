@@ -35,5 +35,17 @@ export const products: Product[] = [
     backImage: "/products/aniversario/aniversario-back.png",
     available: true,
     graphic: "ANIVERSARIO"
+  },
+  {
+    id: "buzo-aniversario",
+    name: "Buzo Aniversario",
+    category: "hoodie",
+    drop: "ANIVERSARIO FCP",
+    edition: "STOCK LIMITADO",
+    stock: 10,
+    frontImage: "/products/buzoAniv/buzoAniv-front.png",
+    backImage: "/products/buzoAniv/buzoAniv-back.png",
+    available: true,
+    graphic: "ANIVERSARIO"
   }
 ];
